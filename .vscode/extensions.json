@@ -2,6 +2,8 @@
     "recommendations": [
         "esbenp.prettier-vscode",
         "Natizyskunk.sftp",
-        "bradlc.vscode-tailwindcss"
+        "bradlc.vscode-tailwindcss",
+        "bmewburn.vscode-intelephense-client",
+        "wordpresstoolbox.wordpress-toolbox"
     ]
 }
