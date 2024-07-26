@@ -1,0 +1,14 @@
+{
+  "frontend/main.css": {
+    "file": "assets/main-40c15f93.css",
+    "src": "frontend/main.css"
+  },
+  "frontend/main.ts": {
+    "css": [
+      "assets/main-40c15f93.css"
+    ],
+    "file": "assets/main-b7329a5e.js",
+    "isEntry": true,
+    "src": "frontend/main.ts"
+  }
+}
